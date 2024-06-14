@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Heopop Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
 supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "어서오세요!"
+welcomeDescription = "해당 런처는 자체 제작한 런처입니다. 2차 수정, 2차 배포는 금지합니다. 허팝 컨텐츠 전용 런처입니다. 다른 용도로 사용하시면 법적 처벌을 받으실 수 있습니다."
+welcomeDescCTA = ""
